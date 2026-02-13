@@ -1,4 +1,4 @@
-# 🤖 Building a Q&A Chatbot with AI (Brag Edition)
+# 🤖 Building a Q&A Chatbot with AI
 
 I took the “Build Chat Applications with OpenAI + LangChain” path and turned lessons into a working Q&A chatbot — starting from the raw OpenAI API, then leveling up with LangChain, LCEL, and a full RAG pipeline. I followed the 365 Data Science materials and did the practicals end‑to‑end, so this README is all results, no boilerplate.
 
@@ -86,3 +86,4 @@ The repo snapshot below shows the exact modules I worked through (OpenAI API, Mo
 ### 🙌 Thanks to 365 Data Science
 
 I took this project from 365 Data Science’s materials and they taught me LLM basics the hands‑on way — I practiced every step, compared models, and shipped real results. If you want someone who can convert LLM theory into a working chatbot and RAG system fast, that’s what I do.
+
